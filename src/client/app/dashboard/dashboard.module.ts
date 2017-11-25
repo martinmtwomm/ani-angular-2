@@ -17,6 +17,7 @@ import { SidebarComponent } from '../shared/index';
     	HomeModule,
     	BSComponentModule,
         BlankPageModule,
+
     ],
     declarations: [DashboardComponent, SidebarComponent],
     exports: [DashboardComponent, SidebarComponent]
